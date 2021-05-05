@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Apr 04 17:36:32 EDT 2020
+0.baseType=DIRECTORY
+0.base=/Users/linzhihao/Desktop/cse486/GroupMessenger1/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1
