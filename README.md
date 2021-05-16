@@ -1,4 +1,4 @@
-Programming Assignments finished in my Distributed Systems course
+Programming Assignments did in my Distributed Systems course
 
 - GroupMessenger1: Designed a group messenger that can send messages to multiple AVDs and store them in a permanent key-value storage.
 
